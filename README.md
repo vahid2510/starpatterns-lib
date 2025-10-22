@@ -184,11 +184,11 @@ Permission is granted, free of charge, to any person obtaining a copy of this so
 
 ---
 
-## 💬 Contact
+💬 Contact
 
-**Author:** Vahid Ahmadi Khorami
-**GitHub:** [@vahid2510](https://github.com/vahid2510)
-**Email:** [](vahid.ahmadi.khorami@gmail.com)
+Author: Vahid Ahmadi Khorami
+GitHub: @vahid2510
+Email: vahid.ahmadi.khorami@gmail.com
 
 
 ---
